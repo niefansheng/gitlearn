@@ -1,1 +1,5 @@
 learn git option from liaoxuefeng..
+
+1.git diff -> 比较工作区和暂存区(最后一次add)的区别
+  git diff --catched -> 比较暂存区和版本库的区别
+  git diff HEAD -- <filename> -> 比较工作区和版本库(最后一次commit)的区别
