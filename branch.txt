@@ -6,6 +6,7 @@ touched          可见文件                                              可�
 added 		可见文件                                               可见文件
 master commit   可见文件                                               不可见文件
 dev commit      不可见文件					       可见文件 
+总结：不管是谁创建的文件，也不管是谁add的，谁commit这个文件就属于谁，即可见。
 
 
 master删除文件但不commit,目录下无文件 。换至dev分支，再切换回master，文件仍然在目录下，git status为空。
