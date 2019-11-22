@@ -11,3 +11,5 @@ master is modifed by niefs.
 dev is modifed by niefs.
 
 Creating a new branch is quick and simple.
+
+add merge.
