@@ -1,10 +1,13 @@
 hello, this is a git branch test txt file what touched by master.
 
 master创建master.txt：
-            	master                         |                           dev
+            	master                         |                           dev(均可切换)
 touched          可见文件                                              可见文件
 added 		可见文件                                               可见文件
 master commit   可见文件                                               不可见文件
 dev commit      不可见文件					       可见文件 
+
+
+master删除文件但不commit,目录下无文件 。换至dev分支，再切换回master，文件仍然在目录下，git status为空。
 
 
