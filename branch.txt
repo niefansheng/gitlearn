@@ -20,3 +20,6 @@ master修改branch.txt文件，直接切换分支被禁止，add后切换分支�
 	Aborting
 
 
+git往github上推送时，git push origin master. master为分支名称，本地master对githubmaster，本地dev对githubdev.
+
+
